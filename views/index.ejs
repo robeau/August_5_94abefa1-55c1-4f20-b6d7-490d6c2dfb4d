@@ -120,12 +120,12 @@
             name: "Type",
             colorByPoint: true,
             data: [
-              //<% for(var i = 0; i < numTypes; i++){ %>
+              <% for(var i = 0; i < numTypes; i++){ %>
               {
                 name: '<%= mimes_arr[i].mtype %>',
                 y: <%= mimes_arr[i].count %>
               },
-             // <%}%>
+              <%}%>
               ]
           }]
         });
