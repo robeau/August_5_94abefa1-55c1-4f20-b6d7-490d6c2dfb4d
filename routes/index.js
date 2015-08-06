@@ -153,9 +153,6 @@ imap.once('end', function() {
 
 imap.connect();
 
-
-
-
 /* GET home page. */
 router.get('/', function(req, res, next) {var nonAttachments = totalEmails - attachCount;
     var renderObj = {
