@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title>Your Gmail Stats</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="http://code.highcharts.com/highcharts.js"></script>
@@ -9,12 +9,14 @@
 
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>There <%= numTypes %> different types of attachments.</p>
+    <h1>Your Gmail Stats</h1>
+    <p>There are <%= numTypes %> different types of attachments.</p>
     <p>You have <%= total %> emails, <%= unread %> unread and <%= read %> read. You have <%= attachments %> emails with attachments (<%= noatt %> without attachments).</p>
-    <div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-    <div id="container2" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-    <div id="container3" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+    <div class="container">
+      <div id="container" style="min-width: 310px; height: auto; margin: 0 auto"></div>
+      <div id="container2" style="min-width: 310px; height: auto; margin: 0 auto"></div>
+      <div id="container3" style="min-width: 310px; height: auto; margin: 0 auto"></div>
+    </div>
     <script>
 
       $(function () {
@@ -37,12 +39,9 @@
               allowPointSelect: true,
               cursor: 'pointer',
               dataLabels: {
-                enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                style: {
-                  color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
-                }
-              }
+                enabled: false
+              },
+              showInLegend: true
             }
           },
           series: [{
@@ -77,12 +76,9 @@
               allowPointSelect: true,
               cursor: 'pointer',
               dataLabels: {
-                enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                style: {
-                  color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
-                }
-              }
+                enabled: false
+              },
+              showInLegend: true
             }
           },
           series: [{
@@ -117,12 +113,9 @@
               allowPointSelect: true,
               cursor: 'pointer',
               dataLabels: {
-                enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                style: {
-                  color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
-                }
-              }
+                enabled: false
+              },
+              showInLegend: true
             }
           },
           series: [{

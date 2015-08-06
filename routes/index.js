@@ -5,7 +5,7 @@ var Imap = require('imap'),
 
 var imap = new Imap({
   user: 'EMAIL@gmail.com',
-  password: 'YOUR-PASSWORD',
+  password: 'PASSWORD',
   host: 'imap.gmail.com',
   port: 993,
   tls: true
@@ -126,8 +126,6 @@ imap.once('ready', function() {
 
                     }
                 }
-
-                console.log('LOOK HERE', mimes_arr);
             });
             msg.once('end', function() {
                 console.log(prefix + 'Finished');
@@ -170,7 +168,6 @@ router.get('/', function(req, res, next) {var nonAttachments = totalEmails - att
         numTypes: mimes_arr.length,
         mimes_arr: mimes_arr
     }
-    console.log("my object",renderObj);
   res.render('index', renderObj);
 });
 

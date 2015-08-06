@@ -11,5 +11,8 @@ div[id^="container"]{
   box-sizing: border-box;
   float: left;
   width: 30%;
+}
+
+.container{
   margin: 0 auto;
 }
