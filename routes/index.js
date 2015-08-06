@@ -1,13 +1,10 @@
 var express = require('express');
 var router = express.Router();
-
-
-
 var Imap = require('imap'),
     inspect = require('util').inspect;
 
 var imap = new Imap({
-  user: 'EMAIL-ADDRESS',
+  user: 'EMAIL@gmail.com',
   password: 'YOUR-PASSWORD',
   host: 'imap.gmail.com',
   port: 993,
@@ -20,6 +17,7 @@ function openInbox(cb) {
   imap.openBox('INBOX', true, cb);
 }
 
+var BACKDATE = 'July 20, 2015';
 var unreadCount = 0;
 var readCount = 0;
 var attachCount = 0;
@@ -29,7 +27,7 @@ var mimes_arr = [];
 imap.once('ready', function() {
     openInbox(function(err, box) {
         if (err) throw err;
-        imap.search([ 'UNSEEN', ['SINCE', 'July 20, 2015'] ], function(err, results) {
+        imap.search([ 'UNSEEN', ['SINCE', BACKDATE] ], function(err, results) {
             if (err) throw err;
             var f = imap.fetch(results, { bodies: '' });
             f.on('message', function(msg, seqno) {
@@ -56,7 +54,7 @@ imap.once('ready', function() {
 imap.once('ready', function() {
     openInbox(function (err, box) {
         if (err) throw err;
-        imap.search([ 'SEEN', ['SINCE', 'July 20, 2015'] ], function(err, results) {
+        imap.search([ 'SEEN', ['SINCE', BACKDATE] ], function(err, results) {
             if (err) throw err;
             var f = imap.fetch(results, { bodies: '' });
             f.on('message', function(msg, seqno) {
@@ -83,7 +81,7 @@ imap.once('ready', function() {
 imap.once('ready', function() {
   openInbox(function(err, box) {
     if (err) throw err;
-    imap.search([ 'ALL', ['SINCE', 'July 20, 2015'] ], function(err, results) {
+    imap.search([ 'ALL', ['SINCE', BACKDATE] ], function(err, results) {
       if (err) throw err;
       var f = imap.fetch(results, { bodies: 'HEADER.FIELDS (FROM TO SUBJECT DATE)', struct: true });
         f.on('message', function(msg, seqno) {
