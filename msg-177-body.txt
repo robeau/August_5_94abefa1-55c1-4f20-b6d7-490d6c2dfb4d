@@ -1,0 +1,526 @@
+Delivered-To: romythedestroyer@gmail.com
+Received: by 10.202.240.214 with SMTP id o205csp595425oih;
+        Sat, 18 Jul 2015 14:02:57 -0700 (PDT)
+X-Received: by 10.55.41.195 with SMTP id p64mr35893707qkp.5.1437253377342;
+        Sat, 18 Jul 2015 14:02:57 -0700 (PDT)
+Return-Path: <notification+kr4yyaqes5gn@facebookmail.com>
+Received: from mx-out.facebook.com (outmail030.prn2.facebook.com. [66.220.144.157])
+        by mx.google.com with ESMTPS id x132si11677425qkx.88.2015.07.18.14.02.56
+        for <romythedestroyer@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 18 Jul 2015 14:02:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.157 as permitted sender) client-ip=66.220.144.157;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.157 as permitted sender) smtp.mail=notification+kr4yyaqes5gn@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1437253376;
+	bh=Z4XF6m0APK46Hsb+NtQG4yOaCQJUmy0ZqVaBZrBXPwc=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=aod1gLtgpeG73XY+uZdESH9rrEE0DPYj9Uu2o3Nhd11WsAlH635jWGN+32mFy952s
+	 7Ah/t4IY+po855B90HFr1Xkz5XhGC+D5VrSX6A6/CfMdUeJPsuJNGKLNR01iJKY9La
+	 t2/kRSmxuOGz2IRipUkV8BpOuI7GBuv8ftUviThc=
+Received: from facebook.com (KFmBqCVRe2qzkPt+u87VVH+RtJoMObiLMIUe+tuz/cx3g5bI/CkO9QqzSZER43mL 10.17.112.35)
+ by facebook.com with Thrift id 5d1c02f82d9011e5b36c0002c9255424-519f7270;
+ Sat, 18 Jul 2015 14:02:56 -0700
+X-Facebook: from 2401:db00:11:803e:face:0:25:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Sat, 18 Jul 2015 14:02:56 -0700
+To: Ariel Messina <romythedestroyer@gmail.com>
+Subject: Cajon Pass and Renaissance are Trending on Facebook
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Return-Path: notification+kr4yyaqes5gn@facebookmail.com
+From: "Facebook" <notification+kr4yyaqes5gn@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: notification+kr4yyaqes5gn@facebookmail.com
+X-Facebook-Notify: trending_email_digest; mailid=c14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS3uMWEZ_AoxfPMe&u=100005525507438&mid=c14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a>
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+Message-ID: <4e158fd6116908e207ec68b4500f0d3a@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_4e158fd6116908e207ec68b4500f0d3a"
+
+
+--b1_4e158fd6116908e207ec68b4500f0d3a
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Go to Facebook
+https://www.facebook.com/n/?home.php&medium=3Demail&mid=3Dc14bc2dG5af459d2=
+cd6eG51b2ca0ea64deG244G6e0a&bcode=3D1.1437253376.AblyKWpzkJI-zB8a&n_m=3Dro=
+mythedestroyer%40gmail.com&lloc=3D1st_cta
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ariel,
+
+Here are the stories people are talking about.
+
+Cajon Pass
+19,808 posts =C2=B7 Art Laboe, Meteorologist Dan Henry
+"At Least 20 Cars Burned in 3,500-Acre Brush Fire in Southern California, =
+Officials Say"
+https://facebook.com/topic/Cajon-Pass/117337844943092
+
+
+Renaissance
+705 posts =C2=B7 Candy 95
+"Artist Creates Mural of Painters From Period as Teenage Mutant Ninja =
+Turtle Counterparts"
+https://facebook.com/topic/Renaissance/108120449222616
+
+
+Alfonso Ribeiro
+
+"Actor and Justin Timberlake Dance 'The Carlton' From 'Fresh Prince of =
+Bel-Air'"
+https://facebook.com/topic/Alfonso-Ribeiro/107655625923898
+
+
+International Mathematical Olympiad
+1,774 posts =C2=B7 NDTV, Hindustan Times
+"US Beats China to Win Math Competition for 1st Time in 21 Years"
+https://facebook.com/topic/International-Mathematical-Olympiad/14051601930=
+8585
+
+
+John McCain
+
+"Donald Trump Questions Whether Arizona Senator Should Be Considered a War =
+Hero"
+https://facebook.com/topic/John-McCain/107924969236328
+
+
+
+
+
+Thanks,
+The Facebook Team
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to romythedestroyer@gmail.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS3uMWEZ_AoxfPMe&u=3D100005525507438&mi=
+d=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_4e158fd6116908e207ec68b4500f0d3a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">Here are =
+the stories people are talking about</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&amp=
+;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail.=
+com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?medium=3D=
+email&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.=
+1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;">Trending Now on Facebook</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">Here are =
+the stories people are talking about.</span></td></tr><tr style=3D""><td =
+height=3D"14" style=3D"line-height:14px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;margin-top:10px;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCajon-Pass%2F117337844943092&a=
+mp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&am=
+p;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail=
+.com&amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQCUUx2TFjcBmP=
+F5&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2Fthumb%2Fd%2Fd6%2FCajon_Pass%252C_wide_angle.jpg%2F720=
+px-Cajon_Pass%252C_wide_angle.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FCajon-Pass%2F117=
+337844943092&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64=
+deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedes=
+troyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Cajon Pass</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">19,808 =
+posts =C2=B7 Art Laboe, Meteorologist Dan Henry</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">At Least 20 Cars Burned in 3,500-Acre Brush Fire in Southern =
+California, Officials Say<span style=3D"color:#cccccc;"> - KTVN Channel 2 =
+News</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FCajon-Pass=
+%2F117337844943092&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2c=
+a0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromy=
+thedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCajon-Pass%2F117337844943092&a=
+mp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&am=
+p;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail=
+.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FRenaissance%2F108120449222616&=
+amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&a=
+mp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQCNmGoUvxItbK=
+Vk&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2Fthumb%2Fe%2Fed%2FTiziano_-_Amor_Sacro_y_Amor_Profano_=
+%2528Galer%25C3%25ADa_Borghese%252C_Roma%252C_1514%2529.jpg%2F720px-Tizian=
+o_-_Amor_Sacro_y_Amor_Profano_%2528Galer%25C3%25ADa_Borghese%252C_Roma%252=
+C_1514%2529.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FRenaissance%2F10=
+8120449222616&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea6=
+4deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Renaissance</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">705 =
+posts =C2=B7 Candy 95</span></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:14px;line-height:19px;color:#898f9c;">Artist =
+Creates Mural of Painters From Period as Teenage Mutant Ninja Turtle =
+Counterparts<span style=3D"color:#cccccc;"> - The Huffington =
+Post</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FRenaissanc=
+e%2F108120449222616&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2=
+ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Drom=
+ythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FRenaissance%2F108120449222616&=
+amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&a=
+mp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FAlfonso-Ribeiro%2F107655625923=
+898&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e=
+0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40=
+gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQAHyV0mwKaFI8rw&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fd%2Fde%2FAlfonso_Ribeiro.JPG%2F720px-Alfonso_Ribeiro.JPG&amp;cfs=3D1=
+" width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FAlfonso-Ribeiro%2F107655625923898&amp;medium=3Demail&amp;mid=3Dc14bc2dG5=
+af459d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB=
+8a&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Alfonso Ribeiro</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;"></span><=
+/td></tr><tr><td style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#898f9c;">Actor and Justin Timberlake Dance =
+&#039;The Carlton&#039; From &#039;Fresh Prince of Bel-Air&#039;<span =
+style=3D"color:#cccccc;"> - New York Daily =
+News</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FAlfonso-Ri=
+beiro%2F107655625923898&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG=
+51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FAlfonso-Ribeiro%2F107655625923=
+898&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e=
+0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40=
+gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FInternational-Mathematical-Oly=
+mpiad%2F140516019308585&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG=
+51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQAdqXmZJoJIIiNA&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2F1%2F17%2FIMO_logo.svg%2F720px-IMO_logo.svg.png&amp;cfs=3D1" =
+width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FInternational-Mathematical-Olympiad%2F140516019308585&amp;medium=3Demail=
+&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.14372=
+53376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dt=
+opic" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">International Mathematical Olympiad</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">1,774 =
+posts =C2=B7 NDTV, Hindustan Times</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">US Beats China to Win Math Competition for 1st Time in 21 =
+Years<span style=3D"color:#cccccc;"> - Washington =
+Post</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FInternatio=
+nal-Mathematical-Olympiad%2F140516019308585&amp;medium=3Demail&amp;mid=3Dc=
+14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKW=
+pzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FInternational-Mathematical-Oly=
+mpiad%2F140516019308585&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG=
+51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJohn-McCain%2F107924969236328&=
+amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&a=
+mp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQC_uK27EOhXNX=
+vW&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2Fthumb%2Fe%2Fe1%2FJohn_McCain_official_portrait_2009.j=
+pg%2F720px-John_McCain_official_portrait_2009.jpg&amp;cfs=3D1" =
+width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FJohn-McCain%2F107924969236328&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af45=
+9d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&a=
+mp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">John McCain</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;"></span><=
+/td></tr><tr><td style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#898f9c;">Donald Trump Questions Whether Arizona =
+Senator Should Be Considered a War Hero<span style=3D"color:#cccccc;"> - =
+POLITICO</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FJohn-McCai=
+n%2F107924969236328&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2=
+ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Drom=
+ythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJohn-McCain%2F107924969236328&=
+amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&a=
+mp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?home.ph=
+p&amp;medium=3Demail&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a=
+&amp;bcode=3D1.1437253376.AblyKWpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?home.php&amp;medium=3Demail&amp;mid=3D=
+c14bc2dG5af459d2cd6eG51b2ca0ea64deG244G6e0a&amp;bcode=3D1.1437253376.AblyK=
+WpzkJI-zB8a&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">Go&nbsp;to&nbsp;Facebook</span><=
+/font></center></a></td></tr></table></a></td><td width=3D"100%" =
+class=3D"mb_hide" style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">This =
+message was sent to <a href=3D"mailto:romythedestroyer&#064;gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">romythedestroyer&#064;gmail.=
+com</a>. If you don&#039;t want to receive these emails from Facebook in =
+the future, please <a href=3D"https://www.facebook.com/o.php?k=3DAS3uMWEZ_=
+AoxfPMe&amp;u=3D100005525507438&amp;mid=3Dc14bc2dG5af459d2cd6eG51b2ca0ea64=
+deG244G6e0a" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Dc14bc2dG5af45=
+9d2cd6eG51b2ca0ea64deG244G6e0a" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_4e158fd6116908e207ec68b4500f0d3a--
+

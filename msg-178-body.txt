@@ -1,0 +1,527 @@
+Delivered-To: romythedestroyer@gmail.com
+Received: by 10.202.240.214 with SMTP id o205csp866791oih;
+        Sun, 19 Jul 2015 05:07:59 -0700 (PDT)
+X-Received: by 10.129.60.12 with SMTP id j12mr24037646ywa.76.1437307679643;
+        Sun, 19 Jul 2015 05:07:59 -0700 (PDT)
+Return-Path: <notification+kr4yyaqes5gn@facebookmail.com>
+Received: from mx-out.facebook.com (outmail027.prn2.facebook.com. [66.220.144.154])
+        by mx.google.com with ESMTPS id e2si6874082ykd.141.2015.07.19.05.07.58
+        for <romythedestroyer@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 19 Jul 2015 05:07:59 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.154 as permitted sender) client-ip=66.220.144.154;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.154 as permitted sender) smtp.mail=notification+kr4yyaqes5gn@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1437307678;
+	bh=s/UklPzgcBaQsp/vDJWn1Z7o0wixalJGShexAHOrj4w=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=UfXV/mv1KUmvbc7Mevb0EDnOC6tL4dUvaZ9A7ozfWjvUFb2S4geJvBwszW5tM/pKW
+	 ZgjCTNV+zclxIWONtUR2dFpSdxMRNzlDbau5BqpxVSYLy4E2WOGMmg3Sq/SMKIlYwa
+	 XeSa8911UaGgQmBq2NC7Zwyyk5b2WMw+UtrosmwY=
+Received: from facebook.com (5AfsVK8EsHXMA+/YmbXcvfK7QbeVk/NVAs9jKX8nczRH2URGQIvnDOc8drY/Lu7z 10.103.99.75)
+ by facebook.com with Thrift id cbd3374c2e0e11e5b4870002c9928872-d74ea270;
+ Sun, 19 Jul 2015 05:07:58 -0700
+X-Facebook: from 2401:db00:11:80c1:face:0:11:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Sun, 19 Jul 2015 05:07:58 -0700
+To: Ariel Messina <romythedestroyer@gmail.com>
+Subject: Robin Hood's Bay and Emilia Clarke are Trending on Facebook
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Return-Path: notification+kr4yyaqes5gn@facebookmail.com
+From: "Facebook" <notification+kr4yyaqes5gn@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: notification+kr4yyaqes5gn@facebookmail.com
+X-Facebook-Notify: trending_email_digest; mailid=c15904cG5af459d2cd6eG51b3945964076G244G6034
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS2cHx1ku8LC49X0&u=100005525507438&mid=c15904cG5af459d2cd6eG51b3945964076G244G6034>
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+Message-ID: <5a13530ed4e0b32fe192160f866ea00e@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5a13530ed4e0b32fe192160f866ea00e"
+
+
+--b1_5a13530ed4e0b32fe192160f866ea00e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Go to Facebook
+https://www.facebook.com/n/?home.php&medium=3Demail&mid=3Dc15904cG5af459d2=
+cd6eG51b3945964076G244G6034&bcode=3D1.1437307678.AblpBjuDQExYfDh5&n_m=3Dro=
+mythedestroyer%40gmail.com&lloc=3D1st_cta
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ariel,
+
+Here are the stories people are talking about.
+
+Robin Hood's Bay
+1,998 posts
+"Foal Born With White Outline on Flank That Resembles His Silhouette"
+https://facebook.com/topic/Robin-Hoods-Bay/108544232503448
+
+
+Emilia Clarke
+
+"Actress Says Season 6 of 'Game of Thrones' Is 'Mental'"
+https://facebook.com/topic/Emilia-Clarke/183033235060475
+
+
+Jamie Lee Curtis
+1,485 posts =C2=B7 E! Online, Entertainment Weekly
+"Actress Dresses as 'Street Fighter' Character Vega at Evolution =
+Championship Series "
+https://facebook.com/topic/Jamie-Lee-Curtis/105527866147154
+
+
+False Widow Spider
+1,440 posts
+"Man Accidentally Picks Up Venomous Spider With Bare Hands"
+https://facebook.com/topic/False-Widow-Spider/110089609011078
+
+
+Wesley Clark
+3,528 posts =C2=B7 Cop Block, The Revolution
+"Retired US Army General Suggests Isolating Radicalized Americans in MSNBC =
+Interview"
+https://facebook.com/topic/Wesley-Clark/112539442095038
+
+
+
+
+
+Thanks,
+The Facebook Team
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to romythedestroyer@gmail.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS2cHx1ku8LC49X0&u=3D100005525507438&mi=
+d=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_5a13530ed4e0b32fe192160f866ea00e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">Here are =
+the stories people are talking about</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034&amp=
+;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gmail.=
+com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?medium=3D=
+email&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034&amp;bcode=3D1.=
+1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;">Trending Now on Facebook</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">Here are =
+the stories people are talking about.</span></td></tr><tr style=3D""><td =
+height=3D"14" style=3D"line-height:14px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;margin-top:10px;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FRobin-Hoods-Bay%2F108544232503=
+448&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G60=
+34&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40=
+gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQBgeZuKTjr1woWF&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2F2%2F21%2FWindy_street_in_Robin_Hoods_Bay_near_Whitby_North_Yorkshire=
+.jpg%2F720px-Windy_street_in_Robin_Hoods_Bay_near_Whitby_North_Yorkshire.j=
+pg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FRobin-Hoods-Bay%=
+2F108544232503448&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b394=
+5964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromyt=
+hedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Robin Hood&#039;s Bay</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">1,998 =
+posts</span></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:14px;line-height:19px;color:#898f9c;">Foal =
+Born With White Outline on Flank That Resembles His Silhouette<span =
+style=3D"color:#cccccc;"> - Daily =
+Mail</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FRobin-Hood=
+s-Bay%2F108544232503448&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG=
+51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FRobin-Hoods-Bay%2F108544232503=
+448&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G60=
+34&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40=
+gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FEmilia-Clarke%2F18303323506047=
+5&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034=
+&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQBv8DHt3FD9ogKj&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2F0%2F0b%2FEmilia_Clarke_2013_%2528Straighten_Colors_2%2529.jpg%2F720p=
+x-Emilia_Clarke_2013_%2528Straighten_Colors_2%2529.jpg&amp;cfs=3D1" =
+width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FEmilia-Clarke%2F183033235060475&amp;medium=3Demail&amp;mid=3Dc15904cG5af=
+459d2cd6eG51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5=
+&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Emilia Clarke</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;"></span><=
+/td></tr><tr><td style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#898f9c;">Actress Says Season 6 of &#039;Game of =
+Thrones&#039; Is &#039;Mental&#039;<span style=3D"color:#cccccc;"> - Los =
+Angeles Times</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FEmilia-Cla=
+rke%2F183033235060475&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51=
+b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dr=
+omythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FEmilia-Clarke%2F18303323506047=
+5&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034=
+&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJamie-Lee-Curtis%2F10552786614=
+7154&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6=
+034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%4=
+0gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQA5E3y_knVabLiZ&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Ff%2Ffc%2FJamie_Lee_Curtis_by_Gage_Skidmore.jpg%2F720px-Jamie_Lee_Cur=
+tis_by_Gage_Skidmore.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FJamie-Lee-Curtis=
+%2F105527866147154&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b39=
+45964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromy=
+thedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Jamie Lee Curtis</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">1,485 =
+posts =C2=B7 E! Online, Entertainment Weekly</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Actress Dresses as &#039;Street Fighter&#039; Character Vega =
+at Evolution Championship Series <span style=3D"color:#cccccc;"> - =
+polygon.com</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FJamie-Lee-=
+Curtis%2F105527866147154&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6e=
+G51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJamie-Lee-Curtis%2F10552786614=
+7154&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6=
+034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%4=
+0gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FFalse-Widow-Spider%2F110089609=
+011078&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244=
+G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer=
+%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQCTaWXlNkK90YtO&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2F6%2F66%2FWestern_Black_Widow_%2528Latrodectus_hesperus%2529.JPG%2F72=
+0px-Western_Black_Widow_%2528Latrodectus_hesperus%2529.JPG&amp;cfs=3D1" =
+width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FFalse-Widow-Spider%2F110089609011078&amp;medium=3Demail&amp;mid=3Dc15904=
+cG5af459d2cd6eG51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQEx=
+YfDh5&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">False Widow Spider</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">1,440 =
+posts</span></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:14px;line-height:19px;color:#898f9c;">Man =
+Accidentally Picks Up Venomous Spider With Bare Hands<span =
+style=3D"color:#cccccc;"> - =
+irishmirror.ie</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FFalse-Wido=
+w-Spider%2F110089609011078&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd=
+6eG51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_=
+m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FFalse-Widow-Spider%2F110089609=
+011078&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244=
+G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer=
+%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FWesley-Clark%2F112539442095038=
+&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034&=
+amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQBATKHKsvXgJ2N3&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fb%2Fbf%2FGeneral_Wesley_Clark_official_photograph%252C_edited.jpg%2F=
+720px-General_Wesley_Clark_official_photograph%252C_edited.jpg&amp;cfs=3D1=
+" width=3D"75" height=3D"75" style=3D"border:0;background:#ffffff;" =
+/></a></td><td width=3D"100%" valign=3D"middle" =
+style=3D"padding-right:10px;" class=3D"ib_mid"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"bottom" style=3D""><a href=3D"https://www.facebook.com/n/?topic%=
+2FWesley-Clark%2F112539442095038&amp;medium=3Demail&amp;mid=3Dc15904cG5af4=
+59d2cd6eG51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&=
+amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Wesley Clark</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">3,528 =
+posts =C2=B7 Cop Block, The Revolution</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Retired US Army General Suggests Isolating Radicalized =
+Americans in MSNBC Interview<span style=3D"color:#cccccc;"> - =
+msnbc</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FWesley-Cla=
+rk%2F112539442095038&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b=
+3945964076G244G6034&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dro=
+mythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FWesley-Clark%2F112539442095038=
+&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034&=
+amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?home.ph=
+p&amp;medium=3Demail&amp;mid=3Dc15904cG5af459d2cd6eG51b3945964076G244G6034=
+&amp;bcode=3D1.1437307678.AblpBjuDQExYfDh5&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?home.php&amp;medium=3Demail&amp;mid=3D=
+c15904cG5af459d2cd6eG51b3945964076G244G6034&amp;bcode=3D1.1437307678.AblpB=
+juDQExYfDh5&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">Go&nbsp;to&nbsp;Facebook</span><=
+/font></center></a></td></tr></table></a></td><td width=3D"100%" =
+class=3D"mb_hide" style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">This =
+message was sent to <a href=3D"mailto:romythedestroyer&#064;gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">romythedestroyer&#064;gmail.=
+com</a>. If you don&#039;t want to receive these emails from Facebook in =
+the future, please <a href=3D"https://www.facebook.com/o.php?k=3DAS2cHx1ku=
+8LC49X0&amp;u=3D100005525507438&amp;mid=3Dc15904cG5af459d2cd6eG51b39459640=
+76G244G6034" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Dc15904cG5af45=
+9d2cd6eG51b3945964076G244G6034" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_5a13530ed4e0b32fe192160f866ea00e--
+

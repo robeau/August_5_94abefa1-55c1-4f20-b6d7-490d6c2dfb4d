@@ -1,0 +1,527 @@
+Delivered-To: romythedestroyer@gmail.com
+Received: by 10.202.240.214 with SMTP id o205csp1440318oih;
+        Sun, 2 Aug 2015 13:32:57 -0700 (PDT)
+X-Received: by 10.129.109.210 with SMTP id i201mr16132038ywc.23.1438547577678;
+        Sun, 02 Aug 2015 13:32:57 -0700 (PDT)
+Return-Path: <notification+kr4yyaqes5gn@facebookmail.com>
+Received: from mx-out.facebook.com (outmail024.prn2.facebook.com. [66.220.144.151])
+        by mx.google.com with ESMTPS id k6si3739952ywb.139.2015.08.02.13.32.57
+        for <romythedestroyer@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 02 Aug 2015 13:32:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.151 as permitted sender) client-ip=66.220.144.151;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.151 as permitted sender) smtp.mail=notification+kr4yyaqes5gn@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1438547577;
+	bh=UVLpeyLfzm/A7UzBconR2Ge1mhRC2z1sJNS/udl+CG8=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=b/rksgJ+NXHFWavjs6ZE8/h/6g3b/xFHUhkdpYUMDfOj54is1wzj/CVTiSbLctnTQ
+	 8rZljuxH6hWTiF/5mzAatdDkUUL/shCKSB/DxVr7ssMp7QnnPqUDgrz+Iht6BD7oeM
+	 xZzbZunPX7wjsClXIsGubXV4Ud/SalIb1Y31qM4A=
+Received: from facebook.com (ZCXdseZ6VhDE7ePc5gEuy8eWpknDiaYfl0vsQX6uS+OSc1HCf7m5SJhq2ILgKGdu 10.103.99.77)
+ by facebook.com with Thrift id a8b6f530395511e5b9500002c9dfb0ee-cccf6270;
+ Sun, 02 Aug 2015 13:32:57 -0700
+X-Facebook: from 2401:db00:11:804c:face:0:13:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Sun, 2 Aug 2015 13:32:57 -0700
+To: Ariel Messina <romythedestroyer@gmail.com>
+Subject: Lollapalooza and Melinda Gates are Trending on Facebook
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Return-Path: notification+kr4yyaqes5gn@facebookmail.com
+From: "Facebook" <notification+kr4yyaqes5gn@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: notification+kr4yyaqes5gn@facebookmail.com
+X-Facebook-Notify: trending_email_digest; mailid=c287ba6G5af459d2cd6eG51c59f542f2feG244G7674
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS2AyAvcMMoLimwQ&u=100005525507438&mid=c287ba6G5af459d2cd6eG51c59f542f2feG244G7674>
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+Message-ID: <cffa9427a77af222cda4346f486e1331@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_cffa9427a77af222cda4346f486e1331"
+
+
+--b1_cffa9427a77af222cda4346f486e1331
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Go to Facebook
+https://www.facebook.com/n/?home.php&medium=3Demail&mid=3Dc287ba6G5af459d2=
+cd6eG51c59f542f2feG244G7674&bcode=3D1.1438547576.AblALQc0hWUCTB1V&n_m=3Dro=
+mythedestroyer%40gmail.com&lloc=3D1st_cta
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ariel,
+
+Here are the stories people are talking about.
+
+Lollapalooza
+24,668 posts
+"Annual 3-Day Music Festival in Chicago Temporarily Evacuated Due to =
+Hail-Producing Storm"
+https://facebook.com/topic/Lollapalooza/103126639726983
+
+
+Melinda Gates
+4,792 posts =C2=B7 Zooey Deschanel, Womanista
+"Photo Purports to Show Philanthropist Helping Women Carry Water in =
+Malawi"
+https://facebook.com/topic/Melinda-Gates/111694208847304
+
+
+Jessica Alba
+2,465 posts =C2=B7 Today Show, Entertainment Weekly
+"The Honest Company, Co-Founded by Alba, Criticized on Social Media for =
+Sunscreen"
+https://facebook.com/topic/Jessica-Alba/112484745434516
+
+
+Memphis Police Department
+
+"Officer Fatally Shot During Traffic Stop Saturday, Police Say "
+https://facebook.com/topic/Memphis-Police-Department/107832769250114
+
+
+Ciara
+
+"Singer Attends Russell Wilson's Seahawks Training Camp With Her Son on =
+Friday"
+https://facebook.com/topic/Ciara/105527929481411
+
+
+
+
+
+Thanks,
+The Facebook Team
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to romythedestroyer@gmail.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS2AyAvcMMoLimwQ&u=3D100005525507438&mi=
+d=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_cffa9427a77af222cda4346f486e1331
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">Here are =
+the stories people are talking about</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&amp=
+;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gmail.=
+com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?medium=3D=
+email&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&amp;bcode=3D1.=
+1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;">Trending Now on Facebook</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">Here are =
+the stories people are talking about.</span></td></tr><tr style=3D""><td =
+height=3D"14" style=3D"line-height:14px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;margin-top:10px;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FLollapalooza%2F103126639726983=
+&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&=
+amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQBF1n6b_cxcXM97&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2F0%2F03%2FChicago_Lollapalooza.jpg%2F720px-Chicago_Lollapalooza.jpg&a=
+mp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FLollapalooza%2F1=
+03126639726983&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542=
+f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythed=
+estroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Lollapalooza</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">24,668 =
+posts</span></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:14px;line-height:19px;color:#898f9c;">Annual =
+3-Day Music Festival in Chicago Temporarily Evacuated Due to =
+Hail-Producing Storm<span style=3D"color:#cccccc;"> - WGN =
+TV</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FLollapaloo=
+za%2F103126639726983&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c=
+59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dro=
+mythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FLollapalooza%2F103126639726983=
+&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&=
+amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMelinda-Gates%2F11169420884730=
+4&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674=
+&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQCWg3lnj2bn6sRT&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fe%2Fec%2FMelinda_Gates_-_World_Economic_Forum_Annual_Meeting_2011.jp=
+g%2F720px-Melinda_Gates_-_World_Economic_Forum_Annual_Meeting_2011.jpg&amp=
+;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FMelinda-Gates%2F=
+111694208847304&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f54=
+2f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythe=
+destroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Melinda Gates</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">4,792 =
+posts =C2=B7 Zooey Deschanel, Womanista</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Photo Purports to Show Philanthropist Helping Women Carry =
+Water in Malawi<span style=3D"color:#cccccc;"> - Pulse =
+Nigeria</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FMelinda-Ga=
+tes%2F111694208847304&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51=
+c59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dr=
+omythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMelinda-Gates%2F11169420884730=
+4&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674=
+&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJessica-Alba%2F112484745434516=
+&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&=
+amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQCbf0u-JD1i2yRW&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fc%2Fc2%2FJessica_Alba_SDCC_2014.jpg%2F720px-Jessica_Alba_SDCC_2014.j=
+pg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FJessica-Alba%2F1=
+12484745434516&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542=
+f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythed=
+estroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Jessica Alba</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">2,465 =
+posts =C2=B7 Today Show, Entertainment Weekly</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">The Honest Company, Co-Founded by Alba, Criticized on Social =
+Media for Sunscreen<span style=3D"color:#cccccc;"> - Today =
+Show</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FJessica-Al=
+ba%2F112484745434516&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c=
+59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dro=
+mythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FJessica-Alba%2F112484745434516=
+&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&=
+amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gma=
+il.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMemphis-Police-Department%2F10=
+7832769250114&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f=
+2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQDTk18ktxdQcwBa&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F1%2F1e%=
+2FTN_-_Memphis_Police.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FMemphis-Police-D=
+epartment%2F107832769250114&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2c=
+d6eG51c59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n=
+_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Memphis Police Department</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;"></span><=
+/td></tr><tr><td style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#898f9c;">Officer Fatally Shot During Traffic =
+Stop Saturday, Police Say <span style=3D"color:#cccccc;"> - Fox =
+News</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FMemphis-Po=
+lice-Department%2F107832769250114&amp;medium=3Demail&amp;mid=3Dc287ba6G5af=
+459d2cd6eG51c59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V=
+&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMemphis-Police-Department%2F10=
+7832769250114&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f=
+2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCiara%2F105527929481411&amp;me=
+dium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&amp;bco=
+de=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gmail.com&=
+amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQBJLifHkErjJL=
+SJ&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2Fthumb%2Fe%2Fee%2FCiara_March_2007.jpg%2F720px-Ciara_M=
+arch_2007.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FCiara%2F10552792=
+9481411&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG24=
+4G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroye=
+r%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Ciara</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;"></span><=
+/td></tr><tr><td style=3D""><span style=3D"font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:14p=
+x;line-height:19px;color:#898f9c;">Singer Attends Russell Wilson&#039;s =
+Seahawks Training Camp With Her Son on Friday<span =
+style=3D"color:#cccccc;"> - =
+bossip.com</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FCiara%2F10=
+5527929481411&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f=
+2feG244G7674&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCiara%2F105527929481411&amp;me=
+dium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674&amp;bco=
+de=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gmail.com&=
+amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?home.ph=
+p&amp;medium=3Demail&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2feG244G7674=
+&amp;bcode=3D1.1438547576.AblALQc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?home.php&amp;medium=3Demail&amp;mid=3D=
+c287ba6G5af459d2cd6eG51c59f542f2feG244G7674&amp;bcode=3D1.1438547576.AblAL=
+Qc0hWUCTB1V&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">Go&nbsp;to&nbsp;Facebook</span><=
+/font></center></a></td></tr></table></a></td><td width=3D"100%" =
+class=3D"mb_hide" style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">This =
+message was sent to <a href=3D"mailto:romythedestroyer&#064;gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">romythedestroyer&#064;gmail.=
+com</a>. If you don&#039;t want to receive these emails from Facebook in =
+the future, please <a href=3D"https://www.facebook.com/o.php?k=3DAS2AyAvcM=
+MoLimwQ&amp;u=3D100005525507438&amp;mid=3Dc287ba6G5af459d2cd6eG51c59f542f2=
+feG244G7674" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Dc287ba6G5af45=
+9d2cd6eG51c59f542f2feG244G7674" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_cffa9427a77af222cda4346f486e1331--
+

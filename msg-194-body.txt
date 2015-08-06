@@ -1,0 +1,523 @@
+Delivered-To: romythedestroyer@gmail.com
+Received: by 10.202.240.214 with SMTP id o205csp606638oih;
+        Fri, 31 Jul 2015 14:19:07 -0700 (PDT)
+X-Received: by 10.107.132.157 with SMTP id o29mr8768797ioi.104.1438377547746;
+        Fri, 31 Jul 2015 14:19:07 -0700 (PDT)
+Return-Path: <notification+kr4yyaqes5gn@facebookmail.com>
+Received: from mx-out.facebook.com (outmail031.prn2.facebook.com. [66.220.144.158])
+        by mx.google.com with ESMTPS id a14si19018ioj.43.2015.07.31.14.19.06
+        for <romythedestroyer@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 31 Jul 2015 14:19:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.158 as permitted sender) client-ip=66.220.144.158;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+kr4yyaqes5gn@facebookmail.com designates 66.220.144.158 as permitted sender) smtp.mail=notification+kr4yyaqes5gn@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1438377546;
+	bh=Fqbkfq6LT3W85tAlgjrnki1Pmz/DvboQcbaVVXZbzjU=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=vW8PnoIg4Cnk0UQGdiCiL6b1dtAmM8Ee7YEaHCTY1mnVDPm0NGXmHb6wvwXJXHDYv
+	 Tfo8AUJNOtofvg2/NxIvmm3vrAlRpFGBm4C2dyrOllFpV8lHgHYCS4CtatTVxBtHkx
+	 zQofIhVWpMxF7vOmtqPcpaliE2vkiYyJqb8ScN2U=
+Received: from facebook.com (opd1aOyOqYMM61a727U4Bqifl+nUlKSV9rWsKJizHsN+huOWsn/QB7pKPnsdP0BX 10.17.112.73)
+ by facebook.com with Thrift id c6db6de437c911e5892f0002c92559d6-857e9270;
+ Fri, 31 Jul 2015 14:19:06 -0700
+X-Facebook: from 2401:db00:11:804c:face:0:13:0 ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Fri, 31 Jul 2015 14:19:06 -0700
+To: Ariel Messina <romythedestroyer@gmail.com>
+Subject: Hackensack, New Jersey and Crow Nation are Trending on Facebook
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Return-Path: notification+kr4yyaqes5gn@facebookmail.com
+From: "Facebook" <notification+kr4yyaqes5gn@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Errors-To: notification+kr4yyaqes5gn@facebookmail.com
+X-Facebook-Notify: trending_email_digest; mailid=c25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS39RSG_RqiJTqss&u=100005525507438&mid=c25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b>
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+Message-ID: <a17d420ffc4e29cb23b847ef7cbe59ef@async.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a17d420ffc4e29cb23b847ef7cbe59ef"
+
+
+--b1_a17d420ffc4e29cb23b847ef7cbe59ef
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Go to Facebook
+https://www.facebook.com/n/?home.php&medium=3Demail&mid=3Dc25e378G5af459d2=
+cd6eG51c325eafbbbfG244Gd07b&bcode=3D1.1438377546.AblJaVlx88Pnp9nv&n_m=3Dro=
+mythedestroyer%40gmail.com&lloc=3D1st_cta
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ariel,
+
+Here are the stories people are talking about.
+
+Hackensack, New Jersey
+4,409 posts =C2=B7 News 12 New Jersey, NJ.com
+"Officer Smashes Window to Rescue Toddler Left Alone in Hot Van, Police =
+Say "
+https://facebook.com/topic/Hackensack-New-Jersey/107720275918046
+
+
+Crow Nation
+5,249 posts =C2=B7 CBS 12 News, The Liberty Eagle
+"Parents Fatally Shot, Daughter Wounded by Motorist They Offered to Help, =
+Family Says"
+https://facebook.com/topic/Crow-Nation/132797596756571
+
+
+2022 Winter Olympics
+2,917 posts =C2=B7 China Daily, China Daily
+"International Olympic Committee Names Beijing as Host City for Games "
+https://facebook.com/topic/2022-Winter-Olympics/132905283414485
+
+
+Beauty and the Beast
+891 posts =C2=B7 Playbill, Lisa Renee Jones
+"Actor Josh Gad Posts Photo From Live-Action Film's Set"
+https://facebook.com/topic/Beauty-and-the-Beast/112286035455281
+
+
+MSNBC
+1,576 posts =C2=B7 NewsBusters.org, New York Magazine
+"News Network Cancels 3 Daytime Shows, Reports Say"
+https://facebook.com/topic/MSNBC/179561985471293
+
+
+
+
+
+Thanks,
+The Facebook Team
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to romythedestroyer@gmail.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS39RSG_RqiJTqss&u=3D100005525507438&mi=
+d=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_a17d420ffc4e29cb23b847ef7cbe59ef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"><span =
+style=3D"color:#FFFFFF;display:none !important;font-size:1px;">Here are =
+the stories people are talking about</span></td></tr><tr><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+width=3D"32" align=3D"left" valign=3D"middle" =
+style=3D"height:32;line-height:0px;"><a href=3D"https://www.facebook.com/n=
+/?medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&amp=
+;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmail.=
+com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yk/r/_2faPUZhPI6.png" =
+width=3D"32" height=3D"32" style=3D"border:0;" /></a></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+width=3D"100%" style=3D""><a href=3D"https://www.facebook.com/n/?medium=3D=
+email&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&amp;bcode=3D1.=
+1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-size:19p=
+x;line-height:32px;">Trending Now on Facebook</a></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"28" =
+style=3D"line-height:28px;">&nbsp;</td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">Here are =
+the stories people are talking about.</span></td></tr><tr style=3D""><td =
+height=3D"14" style=3D"line-height:14px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;margin-top:10px;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FHackensack-New-Jersey%2F107720=
+275918046&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG=
+244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestro=
+yer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQDFxhemvpNbAkKp&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fd%2Fd5%2FBergenCountyCourtHouse2.jpg%2F720px-BergenCountyCourtHouse2=
+.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FHackensack-New-J=
+ersey%2F107720275918046&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG=
+51c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=
+=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Hackensack, New Jersey</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">4,409 =
+posts =C2=B7 News 12 New Jersey, NJ.com</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Officer Smashes Window to Rescue Toddler Left Alone in Hot =
+Van, Police Say <span style=3D"color:#cccccc;"> - =
+NJ.com</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FHackensack=
+-New-Jersey%2F107720275918046&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d=
+2cd6eG51c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp=
+;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FHackensack-New-Jersey%2F107720=
+275918046&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG=
+244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestro=
+yer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCrow-Nation%2F132797596756571&=
+amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&a=
+mp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQCvqTxa-EGc16=
+oj&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2Fthumb%2Fc%2Fcb%2FWolf_-_Crow.jpg%2F720px-Wolf_-_Crow.=
+jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FCrow-Nation%2F13=
+2797596756571&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafb=
+bbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Crow Nation</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">5,249 =
+posts =C2=B7 CBS 12 News, The Liberty Eagle</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Parents Fatally Shot, Daughter Wounded by Motorist They =
+Offered to Help, Family Says<span style=3D"color:#cccccc;"> - =
+helenair.com</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FCrow-Natio=
+n%2F132797596756571&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c3=
+25eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Drom=
+ythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FCrow-Nation%2F132797596756571&=
+amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&a=
+mp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmai=
+l.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2F2022-Winter-Olympics%2F1329052=
+83414485&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG2=
+44Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroy=
+er%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQBG5_iJjzhK-via&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fth=
+umb%2Fa%2Fa1%2FAlpine_skiing_pictogram.svg%2F720px-Alpine_skiing_pictogram=
+.svg.png&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2F2022-Winter-Olym=
+pics%2F132905283414485&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG5=
+1c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3D=
+romythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">2022 Winter Olympics</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">2,917 =
+posts =C2=B7 China Daily, China Daily</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">International Olympic Committee Names Beijing as Host City =
+for Games <span style=3D"color:#cccccc;"> - The =
+Guardian</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2F2022-Winte=
+r-Olympics%2F132905283414485&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2=
+cd6eG51c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;=
+n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2F2022-Winter-Olympics%2F1329052=
+83414485&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG2=
+44Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroy=
+er%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FBeauty-and-the-Beast%2F1122860=
+35455281&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG2=
+44Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroy=
+er%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbextern=
+al-a.akamaihd.net/safe_image.php?d=3DAQDEr4tD6YcATdKs&amp;w=3D150&amp;h=3D=
+150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F31%=
+2FBatbBroadwayLogo.jpg&amp;cfs=3D1" width=3D"75" height=3D"75" =
+style=3D"border:0;background:#ffffff;" /></a></td><td width=3D"100%" =
+valign=3D"middle" style=3D"padding-right:10px;" class=3D"ib_mid"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FBeauty-and-the-B=
+east%2F112286035455281&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG5=
+1c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3D=
+romythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">Beauty and the Beast</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">891 =
+posts =C2=B7 Playbill, Lisa Renee Jones</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">Actor Josh Gad Posts Photo From Live-Action Film&#039;s =
+Set<span style=3D"color:#cccccc;"> - Cinema =
+Blend</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FBeauty-and=
+-the-Beast%2F112286035455281&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2=
+cd6eG51c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;=
+n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FBeauty-and-the-Beast%2F1122860=
+35455281&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG2=
+44Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroy=
+er%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr><tr =
+style=3D"border-bottom:solid 1px #e5e5e5;"><td height=3D"12" =
+style=3D"line-height:12px;">&nbsp;</td></tr><tr style=3D""><td =
+height=3D"12" style=3D"line-height:12px;">&nbsp;</td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+align=3D"left" class=3D"ib_t" =
+style=3D"border-collapse:collapse;width:100%;min-width:420px;"><tr =
+class=3D"ib_row"><td valign=3D"middle" =
+style=3D"padding-right:15px;font-size:0px;" class=3D"ib_img"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMSNBC%2F179561985471293&amp;me=
+dium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&amp;bco=
+de=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmail.com&=
+amp;lloc=3Dtopic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQANPmm4p83BuU=
+-g&amp;w=3D150&amp;h=3D150&amp;url=3Dhttp%3A%2F%2Fupload.wikimedia.org%2Fw=
+ikipedia%2Fcommons%2F2%2F2e%2FAlex_Wagner.jpg&amp;cfs=3D1" width=3D"75" =
+height=3D"75" style=3D"border:0;background:#ffffff;" /></a></td><td =
+width=3D"100%" valign=3D"middle" style=3D"padding-right:10px;" =
+class=3D"ib_mid"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"bottom" =
+style=3D""><a href=3D"https://www.facebook.com/n/?topic%2FMSNBC%2F17956198=
+5471293&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG24=
+4Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroye=
+r%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;font-weight:bold;color:#=
+141823;">MSNBC</span><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v2/yS/r/qPPOa-lnTbj.png" =
+style=3D"border:0;padding:0 7px;" /></a></td></tr><tr><td style=3D""><span =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:16px;line-height:21px;color:#141823;">1,576 =
+posts =C2=B7 NewsBusters.org, New York Magazine</span></td></tr><tr><td =
+style=3D""><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;font-size:14px;line-height:19px;col=
+or:#898f9c;">News Network Cancels 3 Daytime Shows, Reports Say<span =
+style=3D"color:#cccccc;"> - =
+Mediaite</span></span></td></tr></table></td><td valign=3D"middle" =
+class=3D"ib_ext"><a href=3D"https://www.facebook.com/n/?topic%2FMSNBC%2F17=
+9561985471293&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafb=
+bbfG244Gd07b&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythede=
+stroyer%40gmail.com&amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?topic%2FMSNBC%2F179561985471293&amp;me=
+dium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&amp;bco=
+de=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmail.com&=
+amp;lloc=3Dtopic" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">More</span></font></center></a><=
+/td></tr></table></a></td></tr></table></td></tr></table></td></tr><tr =
+style=3D""><td height=3D"14" =
+style=3D"line-height:14px;">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"2" =
+style=3D"line-height:2px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+class=3D"mb_blk" style=3D""><a href=3D"https://www.facebook.com/n/?home.ph=
+p&amp;medium=3Demail&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b=
+&amp;bcode=3D1.1438377546.AblJaVlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gm=
+ail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:2px;text-align:center;display:block;border:solid 1px =
+#344c80;box-shadow:inset 0 1px 1px rgba(255, 255, 255, 0.1),0 1px 0 =
+rgba(0, 0, 0, 0.1);background:#4c649b;padding:7px 16px 11px 16px;"><a =
+href=3D"https://www.facebook.com/n/?home.php&amp;medium=3Demail&amp;mid=3D=
+c25e378G5af459d2cd6eG51c325eafbbbfG244Gd07b&amp;bcode=3D1.1438377546.AblJa=
+Vlx88Pnp9nv&amp;n_m=3Dromythedestroyer%40gmail.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;white-space:nowrap;font-weight:bold=
+;vertical-align:middle;color:#ffffff;text-shadow:0 -1px 0 =
+#415686;font-size:14px;line-height:14px;">Go&nbsp;to&nbsp;Facebook</span><=
+/font></center></a></td></tr></table></a></td><td width=3D"100%" =
+class=3D"mb_hide" style=3D""></td></tr><tr style=3D""><td height=3D"32" =
+style=3D"line-height:32px;" colspan=3D"3">&nbsp;</td></tr></table></td><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D"border-top:solid 1px =
+#e5e5e5;"><td height=3D"16" =
+style=3D"line-height:16px;">&nbsp;</td></tr><tr><td =
+style=3D"font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana=
+,arial,sans-serif;font-size:11px;color:#aaaaaa;line-height:16px;">This =
+message was sent to <a href=3D"mailto:romythedestroyer&#064;gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">romythedestroyer&#064;gmail.=
+com</a>. If you don&#039;t want to receive these emails from Facebook in =
+the future, please <a href=3D"https://www.facebook.com/o.php?k=3DAS39RSG_R=
+qiJTqss&amp;u=3D100005525507438&amp;mid=3Dc25e378G5af459d2cd6eG51c325eafbb=
+bfG244Gd07b" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3Dc25e378G5af45=
+9d2cd6eG51c325eafbbbfG244Gd07b" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_a17d420ffc4e29cb23b847ef7cbe59ef--
+
