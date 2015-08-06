@@ -5,11 +5,10 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="http://code.highcharts.com/highcharts.js"></script>
-    <script src="/javascripts/index.js"></script>
-
   </head>
   <body>
-    <h1>Your Gmail Stats <span style="font-size: .7em">since <%= date %></span></h1>
+    <h1>Your Gmail Stats <span id="showDate" style="font-size: .7em">since <%= date %></span></h1>
+    Choose a new date: <input type="date" id="date" />
     <p>You have <%= total %> emails, <%= unread %> unread and <%= read %> read. You have <%= attachments %> emails with attachments (There are <%= numTypes %> different types of attachments).</p>
     <div class="container">
       <div id="container" style="min-width: 310px; height: auto; margin: 0 auto"></div>
@@ -17,7 +16,7 @@
       <div id="container3" style="min-width: 310px; height: auto; margin: 0 auto"></div>
     </div>
     <script>
-
+      //pie charts
       $(function () {
 
         $('#container').highcharts({
@@ -132,5 +131,6 @@
         });
       });
     </script>
+    <script src="/javascripts/index.js"></script>
   </body>
 </html>
