@@ -166,7 +166,8 @@ router.get('/', function(req, res, next) {var nonAttachments = totalEmails - att
         total: totalEmails,
         noatt: nonAttachments,
         numTypes: mimes_arr.length,
-        mimes_arr: mimes_arr
+        mimes_arr: mimes_arr,
+        date: BACKDATE
     }
   res.render('index', renderObj);
 });
