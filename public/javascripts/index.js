@@ -71,9 +71,10 @@ calendar.addEventListener('change', function () {
 
  $.post('/', newDate, function (data) {
   console.log('this is the data',data);
+
+  shownDate.innerHTML = 'since ' + newDate;
+  location.reload();
  });
 
- shownDate.innerHTML = 'since ' + newDate;
- location.reload();
 
 });

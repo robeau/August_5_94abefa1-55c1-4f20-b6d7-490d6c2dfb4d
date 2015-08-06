@@ -98,8 +98,7 @@ function parseEmails (){
                             }
                             else{
                                 attachCount++;
-
-                                var thisType = arr[0].type;
+                                var thisType = arr[0].subtype;
                                 var found = false;
 
                                 if (mimes_arr.length === 0){
@@ -174,6 +173,7 @@ router.post('/', function (req,res) {
     BACKDATE = Object.getOwnPropertyNames(req.body)[0];
     console.log('BACKDATE', Object.getOwnPropertyNames(req.body));
     parseEmails();
+    res.send(202).json({message: 'Reloading with new date...'});
     res.status(200).json({message: 'Successfully changed the date.'});
 })
 
