@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var config = require('./config');
+var uuid = require('uuid');
 var Imap = require('imap'),
     inspect = require('util').inspect;
 
@@ -18,6 +19,43 @@ var readCount = 0;
 var attachCount = 0;
 var totalEmails = 0;
 var mimes_arr = [];
+
+router.post('/', function (req,res) {
+    BACKDATE = Object.getOwnPropertyNames(req.body)[0];
+    console.log('BACKDATE', Object.getOwnPropertyNames(req.body));
+    parseEmails();
+    res.status(200).json({message: 'Successfully changed the date.'});
+});
+
+var long_running_process_status = {
+
+};
+
+function imap(uuid, long_running_process_status) {
+    var interval = 8000; //1000 + ~~(Math.random() * 4000);
+    setTimeout(function () {
+        long_running_process_status[uuid].status = 'complete';
+        long_running_process_status[uuid].result = interval;
+        console.log('done with the task: ', uuid);
+    }, interval)
+}
+
+router.get('/long-running-operation', function (req, res) {
+    // fire a long running operation
+    var id = uuid.v4();
+    long_running_process_status[id] = {
+        status: 'processing'
+    };
+    res.status(202).json({
+        message: 'Started with the operation ... ',
+        url: '/updates/' + id
+    });
+    imap(id, long_running_process_status);
+});
+
+router.get('/updates/:id', function (req, res) { // /updates/9d10975f-9e61-47e9-95f7-80bf0b76556a
+    res.status(200).json(long_running_process_status[req.params.id]); // 9d10975f-9e61-47e9-95f7-80bf0b76556a
+});
 
 function parseEmails (){
     imap.once('ready', function() {
@@ -169,11 +207,6 @@ function parseEmails (){
 
 parseEmails();
 
-router.post('/', function (req,res) {
-    BACKDATE = Object.getOwnPropertyNames(req.body)[0];
-    console.log('BACKDATE', Object.getOwnPropertyNames(req.body));
-    parseEmails();
-    res.send(202).json({message: 'Reloading with new date...'});
-    res.status(200).json({message: 'Successfully changed the date.'});
-})
+
+
 
