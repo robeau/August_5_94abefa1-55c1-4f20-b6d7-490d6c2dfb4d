@@ -9,16 +9,40 @@
   <body>
     <h1>Your Gmail Stats <span id="showDate" style="font-size: .7em">since <%= date %></span></h1>
     Choose a new date: <input type="date" id="date" />
-    <p>You have <%= total %> emails, <%= unread %> unread and <%= read %> read. You have <%= attachments %> emails with attachments (There are <%= numTypes %> different types of attachments).</p>
+    <p>You have <%= total %> emails, <span id="unread"></span> unread and <span id="read"></span> read. You have <span id="attachments"></span> emails with attachments (There are <span id="numTypes"></span> different types of attachments).</p>
     <div class="container">
       <div id="container" style="min-width: 310px; height: auto; margin: 0 auto"></div>
       <div id="container2" style="min-width: 310px; height: auto; margin: 0 auto"></div>
       <div id="container3" style="min-width: 310px; height: auto; margin: 0 auto"></div>
     </div>
-    <script>
+    <script type="text/javascript">
+      //pie charts
+
+      var read;
+      var unread;
+      var noatt;
+      var attachments;
+      var numTypes;
+
+      function updatePies (){
+        console.log('Pies are being updated ...');
+        read = <%= read %>;
+        unread = <%= unread %>;
+        noatt = <%= noatt %>;
+        attachments = <%= attachments %>;
+        numTypes = <%= numTypes %>;
+
+        $('#read').text(read);
+        $('#unread').text(unread);
+        $('#noatt').text(noatt);
+        $('#attachments').text(attachments);
+        $('#numTypes').text(numTypes);
+      }
+
+
       //pie charts
       $(function () {
-
+        updatePies();
         $('#container').highcharts({
           chart: {
             plotBackgroundColor: null,
@@ -47,10 +71,10 @@
             colorByPoint: true,
             data: [{
               name: "Unread",
-              y: <%= unread %>
+              y: unread
             }, {
               name: "Read",
-              y: <%= read %>,
+              y: read,
               sliced: true,
               selected: true
             }]
@@ -84,10 +108,10 @@
             colorByPoint: true,
             data: [{
               name: "Attachments",
-              y: <%= attachments %>
+              y: attachments
             }, {
               name: "No Attachments",
-              y: <%= noatt %>,
+              y: noatt,
               sliced: true,
               selected: true
             }]
@@ -131,6 +155,6 @@
         });
       });
     </script>
-    <script src="/javascripts/index.js"></script>
+    <script type="text/javascript" src="/javascripts/index.js"></script>
   </body>
 </html>

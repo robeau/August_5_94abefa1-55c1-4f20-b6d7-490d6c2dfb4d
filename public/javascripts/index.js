@@ -23,19 +23,19 @@ $(function () {
 
  // make a call for initiating the long running process
  $.getJSON('/long-running-operation', function (data, status_text, jqXHR) {
-  console.log(data.url);
+  console.log('data',data.url);
   polling(data.url); // /updates/9d10975f-9e61-47e9-95f7-80bf0b76556a
-  console.log(jqXHR.status);
+  console.log('status',jqXHR.status);
  });
 
  function polling(url) {
   //
   var intervalid = setInterval(function () {
    $.getJSON(url, function (data) {
+    updatePies();
     if (data.status === 'complete') {
-     // operation is done
      clearInterval(intervalid);
-     console.log(data.result);
+     console.log('data from ii',data.result);
     }
    });
   }, 5000);
@@ -97,7 +97,6 @@ calendar.addEventListener('change', function () {
   console.log('this is the data',data);
 
   shownDate.innerHTML = 'since ' + newDate;
-  location.reload();
  });
 
 

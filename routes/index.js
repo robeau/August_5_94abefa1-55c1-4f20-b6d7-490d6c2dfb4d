@@ -5,13 +5,7 @@ var uuid = require('uuid');
 var Imap = require('imap'),
     inspect = require('util').inspect;
 
-var imap = new Imap(config);
 
-var fs = require('fs'), fileStream;
-
-function openInbox(cb) {
-  imap.openBox('INBOX', true, cb);
-}
 
 var BACKDATE = 'July 20, 2015';
 var unreadCount = 0;
@@ -31,7 +25,7 @@ var long_running_process_status = {
 
 };
 
-function imap(uuid, long_running_process_status) {
+function imapLong(uuid, long_running_process_status) {
     var interval = 8000; //1000 + ~~(Math.random() * 4000);
     setTimeout(function () {
         long_running_process_status[uuid].status = 'complete';
@@ -39,7 +33,6 @@ function imap(uuid, long_running_process_status) {
         console.log('done with the task: ', uuid);
     }, interval)
 }
-//
 router.get('/long-running-operation', function (req, res) {
     // fire a long running operation
     var id = uuid.v4();
@@ -50,7 +43,8 @@ router.get('/long-running-operation', function (req, res) {
         message: 'Started with the operation ... ',
         url: '/updates/' + id
     });
-    imap(id, long_running_process_status);
+    console.log('UUID',id);
+    imapLong(id, long_running_process_status);
 });
 
 router.get('/updates/:id', function (req, res) { // /updates/9d10975f-9e61-47e9-95f7-80bf0b76556a
@@ -58,6 +52,20 @@ router.get('/updates/:id', function (req, res) { // /updates/9d10975f-9e61-47e9-
 });
 
 function parseEmails (){
+
+    var imap = new Imap(config);
+
+    var fs = require('fs'), fileStream;
+
+    function openInbox(cb) {
+        imap.openBox('INBOX', true, cb);
+    }
+
+    unreadCount = 0;
+    readCount = 0;
+    attachCount = 0;
+    totalEmails = 0;
+    mimes_arr = [];
     imap.once('ready', function() {
         openInbox(function(err, box) {
             if (err) throw err;
@@ -186,6 +194,9 @@ function parseEmails (){
 
     imap.connect();
 
+    config.user = null;
+    config.password = null;
+
     /* GET home page. */
     router.get('/', function(req, res, next) {var nonAttachments = totalEmails - attachCount;
         var renderObj = {
@@ -201,12 +212,9 @@ function parseEmails (){
         }
         res.render('index', renderObj);
     });
-
-    module.exports = router;
 }
 
 parseEmails();
 
 
-
-
+module.exports = router;
